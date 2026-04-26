@@ -1,5 +1,7 @@
 # Tides & Weather
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://florida-tides.streamlit.app/)
+
 A Streamlit app for monitoring tides and weather conditions at Florida coastal locations.
 
 ## Features
