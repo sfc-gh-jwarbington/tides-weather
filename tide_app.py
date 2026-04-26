@@ -499,3 +499,4 @@ if weather and weather.get("daily"):
         st.markdown("---")
 
 st.caption("Data: NOAA CO-OPS (tides) | Open-Meteo (weather)")
+st.caption("Built with [Snowflake Cortex Code](https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code)")
