@@ -31,3 +31,7 @@ A Streamlit app for monitoring tides and weather conditions at Florida coastal l
 pip install -r requirements.txt
 python3 -m streamlit run tide_app.py
 ```
+
+---
+
+Built with [Snowflake Cortex Code](https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code)
