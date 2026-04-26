@@ -4,6 +4,8 @@
 
 A Streamlit app for monitoring tides and weather conditions at Florida coastal locations.
 
+![App Overview](screenshots/app-overview.png)
+
 ## Features
 
 - Current conditions: tide level, temperature, wind speed, gusts
@@ -11,6 +13,12 @@ A Streamlit app for monitoring tides and weather conditions at Florida coastal l
 - Boating windows based on tide height above reference
 - Upcoming high/low tide times with wind data
 - Multi-day forecast with daily weather and tide schedules
+
+### Tide Chart & Boating Windows
+![Tide Chart](screenshots/tide-chart.png)
+
+### Multi-Day Forecast
+![Forecast](screenshots/forecast.png)
 
 ## Data Sources
 
